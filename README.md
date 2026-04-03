@@ -177,7 +177,7 @@ terraform destroy
 
 The Terraform state file is stored remotely in Azure Blob Storage.
 
-![Terraform State Blob](images/container-tfstate.png)
+![Terraform State Blob](./images/container-tfstate.png)
 
 ---
 
