@@ -39,7 +39,7 @@ node_modules/
 *.zip
 
 # Images (optional - depends on submission)
-*.png
+#*.png
 
 # Local downloaded state (VERY IMPORTANT)
 dev.terraform.tfstate
